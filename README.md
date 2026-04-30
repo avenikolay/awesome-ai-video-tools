@@ -74,6 +74,7 @@
 - [Buffer](https://buffer.com) — Schedule and publish
 - [Hootsuite](https://hootsuite.com) — Social media management
 - [Later](https://later.com) — Visual social media planning
+- [Cyber Collector](https://t.me/cybercollectorbot) — Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ---
 
