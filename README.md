@@ -54,6 +54,7 @@
 *AI-enhanced editing tools.*
 
 - [Descript](https://descript.com) — Edit video by editing transcript
+- [Barz Studio](https://barzvideo.com/?utm_source=avenikolay-awesome-ai-video-tools&utm_medium=directory&utm_campaign=backlinks) — Free browser rap lyric video maker with lyric sync and beat-reactive visuals (does not generate songs/vocals/AI footage).
 - [CapCut](https://capcut.com) — Mobile-first with AI features
 - [Adobe Premiere Pro](https://adobe.com/premiere) — Industry standard with AI tools
 - [DaVinci Resolve](https://blackmagicdesign.com/davinci) — Professional + free tier
