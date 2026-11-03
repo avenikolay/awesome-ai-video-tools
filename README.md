@@ -46,6 +46,7 @@
 - [Pika](https://pika.art) — Creative video generation
 - [HeyGen](https://heygen.com) — AI avatar videos
 - [Synthesia](https://synthesia.io) — Training and explainer videos
+- [Cyanvid](https://cyanvid.com/?utm_source=avenikolay-awesome-ai-video-tools&utm_medium=directory&utm_campaign=backlinks) — AI video from text or images with exact credit quotes before you generate
 
 ---
 
