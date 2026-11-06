@@ -54,6 +54,7 @@
 *AI-enhanced editing tools.*
 
 - [Descript](https://descript.com) — Edit video by editing transcript
+- [Vidmoat](https://www.vidmoat.com) — Hosted AI video editor with a real reviewable timeline (chat, Telegram, MCP)
 - [CapCut](https://capcut.com) — Mobile-first with AI features
 - [Adobe Premiere Pro](https://adobe.com/premiere) — Industry standard with AI tools
 - [DaVinci Resolve](https://blackmagicdesign.com/davinci) — Professional + free tier
