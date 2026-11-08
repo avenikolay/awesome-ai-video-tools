@@ -44,6 +44,7 @@
 - [Sora](https://openai.com/sora) — OpenAI text-to-video
 - [Runway](https://runwayml.com) — Professional AI video generation
 - [Pika](https://pika.art) — Creative video generation
+- [ReelAI](https://tryreelai.com/) — Create short videos from images using preset effects (paid)
 - [HeyGen](https://heygen.com) — AI avatar videos
 - [Synthesia](https://synthesia.io) — Training and explainer videos
 
